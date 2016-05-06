@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Acre",
+    "code": "AC",
+    "capital": "Rio Branco",
+    "region": "Norte",
+    "cities": 22
+  },
+  {
+    "name": "Alagoas",
+    "code": "AL",
+    "capital": "Maceió",
+    "region": "Nordeste",
+    "cities": 102
+  },
+  {
+    "name": "Amapá",
+    "code": "AP",
+    "capital": "Macapá",
+    "region": "Norte",
+    "cities": 16
+  },
+  {
+    "name": "Amazonas",
+    "code": "AM",
+    "capital": "Manaus",
+    "region": "Norte",
+    "cities": 62
+  }
+]
