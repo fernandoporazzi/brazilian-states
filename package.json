@@ -1,0 +1,34 @@
+{
+  "name": "brazilian-states",
+  "version": "0.0.1",
+  "description": "Get informations about Brazilian States.",
+  "license": "MIT",
+  "repository": "fernandoporazzi/brazilian-states",
+  "main": "index.js",
+  "author": {
+    "name": "Fernando Porazzi",
+    "email": "fernandoporazzi@gmail.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js",
+    "states.json"
+  ],
+  "keywords": [
+    "states",
+    "brazil",
+    "brazilian",
+    "data",
+    "informations"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fernandoporazzi/brazilian-states"
+  },
+  "bugs": {
+    "url": "https://github.com/fernandoporazzi/brazilian-states/issues"
+  },
+  "homepage": "https://github.com/fernandoporazzi/brazilian-states"
+}
