@@ -1,6 +1,6 @@
 {
   "name": "brazilian-states",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Get informations about Brazilian States.",
   "license": "MIT",
   "repository": "fernandoporazzi/brazilian-states",
@@ -10,7 +10,7 @@
     "email": "fernandoporazzi@gmail.com"
   },
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=4.0.0"
   },
   "files": [
     "index.js",
