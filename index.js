@@ -8,7 +8,7 @@ var getStateByCode = (code) => {
   for (var i = 0; i < states.length; i++) {
     var self = states[i];
 
-    if (self.code === code) {
+    if (self.code === code.toUpperCase()) {
       state = self;
       break;
     }
