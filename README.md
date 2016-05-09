@@ -41,7 +41,7 @@ return data according to parameter. Expects state code.
   cities: 645
 }
 */
-console.log(brazilianStates.get('RS'));
+console.log(brazilianStates.get('SP'));
 
 ```
 
