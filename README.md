@@ -14,7 +14,8 @@ Get informations about Brazilian States.
 
 var brazilianStates = require('brazilian-states');
 
-// return full list
+/*
+return full list
 [
   {
     "name": "Acre",
@@ -26,10 +27,12 @@ var brazilianStates = require('brazilian-states');
   ...
   ...
 ]
+*/
 console.log(brazilianStates.get());
 
 
-// return data according to parameter. Expects state code.
+/*
+return data according to parameter. Expects state code.
 {
   name: 'São Paulo',
   code: 'SP',
@@ -37,7 +40,7 @@ console.log(brazilianStates.get());
   region: 'Sudeste',
   cities: 645
 }
-
+*/
 console.log(brazilianStates.get('RS'));
 
 ```
